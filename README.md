@@ -1,163 +1,109 @@
-<div align="center">
+<!-- ============================================ -->
+<!--            PREMIUM GITHUB README            -->
+<!-- ============================================ -->
 
-# 🚀 Abdinasir Mohamed Abukar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Flutter+Developer;UI%2FUX+Designer;Full+Stack+Developer" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;React+%7C+Node.js+%7C+Java;Building+Scalable+Web+Applications" />
+<h1 align="center">Hi 👋, I'm Abdifitah Muse Gurhan</h1>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdinasirrmohamed&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+<h3 align="center">
+🚀 Full Stack Developer | Flutter Developer | UI/UX Enthusiast
+</h3>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-```yaml
-Name: Abdinasir Mohamed Abukar
-Location: Mogadishu, Somalia
-Role: Full Stack Developer
-Focus:
-  - React.js
-  - Node.js
-  - Spring Boot
-  - MongoDB
-  - MySQL
-Current_Project:
-  - Nageeye Polyclinic Center
-Learning:
-  - System Design
-  - Microservices
-  - Cloud Deployment
-```
+- 🔭 Currently working on **Flutter Projects**
+- 🌱 Learning **Flutter, UI/UX, Dart & Full Stack Development**
+- 💬 Ask me about **Flutter, React, Dart**
+- 📫 Reach me at: **cabdifitaaxmansour@email.com**
+- ⚡ Fun Fact: **I love coding and building modern apps**
 
 ---
 
-## ⚡ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-## 📈 GitHub Analytics
+# 🚀 Languages & Tools
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdinasirrmohamed&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdinasirrmohamed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,mongodb,firebase,figma,java,python,git,github,vscode" />
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdinasirrmohamed&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdifitahGurhan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=AbdifitahGurhan&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdinasirrmohamed&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdifitahGurhan&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 GitHub Trophies
 
-### 🚔 Police Case Management System
+<p align="center">
 
-Modern Police Investigation & Case Tracking Platform
+<img src="https://github-profile-trophy.vercel.app/?username=AbdifitahGurhan&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-**Tech Stack**
-
-- React.js
-- Spring Boot
-- MySQL
-- JWT Authentication
+</p>
 
 ---
 
-### 🏥 Nageeye Polyclinic Center
+# 🌐 Connect With Me
 
-Healthcare Management System
+<p align="center">
 
-**Features**
-
-- Patient Management
-- Laboratory Module
-- Pharmacy Module
-- Doctor Dashboard
-- Reception Dashboard
-
----
-
-### 🛒 TechMaal E-Commerce
-
-Electronics Shopping Platform
-
-**Features**
-
-- Shopping Cart
-- Order Management
-- Product Inventory
-- Admin Dashboard
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-
-<a href="mailto:abdinasirmohamedabukar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/cabdi-fitaax-muse-gurhan/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://github.com/abdinasirrmohamed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://x.com/AbdifitahGurxan" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="50"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+# 👀 Profile Views
 
-### 💡 "First solve the problem, then write the code."
+<p align="center">
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=AbdifitahGurhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+<p align="center">
+
+> “First, solve the problem. Then, write the code.”
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
+</p>
