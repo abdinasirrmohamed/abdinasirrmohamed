@@ -1,68 +1,154 @@
+# 👋 Hi, I'm Abdinasir Mohamed Abukar
+
 <div align="center">
 
-# 🚀 Abdinasir Mohamed Abukar
+### Full Stack MERN Developer • Media Specialist • Digital Solutions Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;React+%7C+Node.js+%7C+Java;Building+Scalable+Web+Applications" />
+Building scalable web applications, healthcare systems, business platforms, and creative digital experiences.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdinasirrmohamed&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Healthcare+Systems+Developer;Media+Production+Specialist;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Digital+Solutions" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```yaml
-Name: Abdinasir Mohamed Abukar
-Location: Mogadishu, Somalia
-Role: Full Stack Developer
-Focus:
-  - React.js
-  - Node.js
-  - Spring Boot
-  - MongoDB
-  - MySQL
-Current_Project:
-  - Nageeye Polyclinic Center
-Learning:
-  - System Design
-  - Microservices
-  - Cloud Deployment
-```
+I'm a passionate Full Stack Developer and Media Specialist from Somalia with experience building modern web applications, healthcare systems, business management platforms, and digital media solutions.
+
+### What I Do
+
+💻 Design and develop full-stack web applications
+
+🏥 Build healthcare and clinic management systems
+
+📊 Develop business management and ERP platforms
+
+🎥 Produce professional media content and event coverage
+
+🎨 Create modern UI/UX experiences
+
+⚡ Transform ideas into scalable digital products
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
 </p>
 
-### Backend
+### Backend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-### Database
+### Database Technologies
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### Tools & Workflow
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 🎥 Media & Creative Services
+
+### Professional Media Production
+
+* Event Coverage
+* Photography
+* Videography
+* Documentary Production
+* Social Media Content
+* Video Editing
+* Promotional Videos
+* Brand Storytelling
+
+### Creative Tools
+
+* Adobe Premiere Pro
+* Adobe Photoshop
+* Canva
+* CapCut
+* DaVinci Resolve
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Nageeye Polyclinic Center
+
+A complete healthcare management system featuring:
+
+* Patient Management
+* Appointment Scheduling
+* Laboratory Module
+* Pharmacy Management
+* Billing System
+* Electronic Medical Records
+* Doctor Dashboard
+* Reception Dashboard
+
+**Stack:** React • Node.js • Express • MongoDB
+
+---
+
+### 🚔 Police Case Management System
+
+Investigation and case tracking platform.
+
+**Features**
+
+* Case Registration
+* Investigation Workflow
+* Evidence Management
+* Officer Dashboard
+* Secure Authentication
+
+**Stack:** React • Spring Boot • MySQL
+
+---
+
+### 🛒 TechMaal E-Commerce Platform
+
+Modern online electronics marketplace.
+
+**Features**
+
+* Product Management
+* Shopping Cart
+* Order Tracking
+* Payment Integration
+* Admin Dashboard
+
+**Stack:** MERN Stack
+
+---
+
+### 📦 Retail Management System
+
+Inventory, stock visibility, sales tracking, and supermarket operations management.
+
+**Features**
+
+* Inventory Control
+* Sales Monitoring
+* Product Management
+* Supplier Management
+* Financial Reporting
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -74,90 +160,39 @@ Learning:
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdinasirrmohamed&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdinasirrmohamed&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚔 Police Case Management System
-
-Modern Police Investigation & Case Tracking Platform
-
-**Tech Stack**
-
-- React.js
-- Spring Boot
-- MySQL
-- JWT Authentication
+* Advanced MERN Stack Architecture
+* System Design
+* Healthcare ERP Systems
+* Spring Boot Enterprise Applications
+* Cloud Deployment
+* Scalable API Development
 
 ---
 
-### 🏥 Nageeye Polyclinic Center
+## 🌍 Let's Connect
 
-Healthcare Management System
+📧 Email: [abdinasirmohamedabukar@gmail.com](mailto:abdinasirmohamedabukar@gmail.com)
 
-**Features**
+🐙 GitHub: github.com/abdinasirrmohamed
 
-- Patient Management
-- Laboratory Module
-- Pharmacy Module
-- Doctor Dashboard
-- Reception Dashboard
-
----
-
-### 🛒 TechMaal E-Commerce
-
-Electronics Shopping Platform
-
-**Features**
-
-- Shopping Cart
-- Order Management
-- Product Inventory
-- Admin Dashboard
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-
-<a href="mailto:abdinasirmohamedabukar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abdinasirrmohamed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+💼 LinkedIn: linkedin.com/in/abdinasirmohamed
 
 ---
 
 <div align="center">
 
-### 💡 "First solve the problem, then write the code."
+### "Building technology that solves real-world problems."
+
+⭐ Always learning. Always building.
 
 </div>
