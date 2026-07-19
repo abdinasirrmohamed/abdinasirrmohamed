@@ -1,79 +1,361 @@
-# 👋 Hi, I'm Abdinasir Mohamed Abukar
-
 <div align="center">
 
-### Full Stack MERN Developer • Media Specialist • Digital Solutions Builder
+# 👋 Hi, I'm Abdinasir Mohamed Abukar
 
-Building scalable web applications, healthcare systems, business platforms, and creative digital experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Full+Stack+MERN+Developer;Healthcare+Systems+Engineer;Spring+Boot+Developer;Media+Production+Specialist;System+Design+Enthusiast;Building+Scalable+Digital+Solutions" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Healthcare+Systems+Developer;Media+Production+Specialist;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Digital+Solutions" />
+<br/>
+
+<p>
+  <a href="https://github.com/abdinasirrmohamed">
+    <img src="https://img.shields.io/github/followers/abdinasirrmohamed?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/abdinasirrmohamed">
+    <img src="https://komarev.com/ghpvc/?username=abdinasirrmohamed&style=for-the-badge&color=00D9FF" />
+  </a>
+  <a href="mailto:abdinasirmohamedabukar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+### 💻 Full Stack Developer | 🏥 Healthcare Technology Builder | 🎥 Media Specialist
+
+> **Building technology that solves real-world problems.**
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a passionate Full Stack Developer and Media Specialist from Somalia with experience building modern web applications, healthcare systems, business management platforms, and digital media solutions.
+I'm **Abdinasir Mohamed Abukar**, a passionate Full Stack Developer and Media Specialist from Somalia.
 
-### What I Do
+I specialize in designing and building **scalable, secure, and modern digital solutions** that solve real-world business and organizational problems.
 
-💻 Design and develop full-stack web applications
+My work focuses on combining:
 
-🏥 Build healthcare and clinic management systems
+* 💻 Software Engineering
+* 🏥 Healthcare Technology
+* 📊 Business Management Systems
+* 🧠 System Design
+* 🎥 Digital Media Production
+* 🎨 Creative Technology
 
-📊 Develop business management and ERP platforms
+I enjoy transforming complex ideas into practical, user-friendly, and scalable applications.
 
-🎥 Produce professional media content and event coverage
-
-🎨 Create modern UI/UX experiences
-
-⚡ Transform ideas into scalable digital products
-
----
-
-## 🛠 Tech Stack
-
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
-</p>
-
-### Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
-
-### Database Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Workflow
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+```javascript
+const abdinasir = {
+  name: "Abdinasir Mohamed Abukar",
+  location: "Somalia 🇸🇴",
+  role: "Full Stack Developer",
+  specialization: [
+    "MERN Stack",
+    "Spring Boot",
+    "Healthcare Systems",
+    "Enterprise Applications",
+    "System Design",
+    "Media Production"
+  ],
+  currentlyLearning: [
+    "Advanced System Design",
+    "Microservices Architecture",
+    "Cloud Deployment",
+    "Distributed Systems"
+  ],
+  mindset: "Build. Learn. Improve. Repeat."
+};
+```
 
 ---
 
-## 🎥 Media & Creative Services
+# 🧠 What I Do
 
-### Professional Media Production
+### 💻 Full Stack Development
+
+I build complete web applications from database architecture to responsive user interfaces.
+
+* RESTful API Development
+* Authentication & Authorization
+* Role-Based Access Control
+* Real-Time Applications
+* Admin Dashboards
+* Payment Integrations
+* Database Design
+* API Architecture
+
+---
+
+### 🏥 Healthcare Technology
+
+I design and develop healthcare management systems that help clinics and medical organizations manage their daily operations.
+
+* Patient Management
+* Electronic Medical Records
+* Appointment Scheduling
+* Pharmacy Management
+* Laboratory Management
+* Billing & Finance
+* Doctor Dashboards
+* Reception Dashboards
+* Medical Reporting
+
+---
+
+### 📊 Business & Enterprise Systems
+
+I build platforms that help organizations manage their operations efficiently.
+
+* ERP Systems
+* Inventory Management
+* Point of Sale Systems
+* Financial Management
+* Sales Management
+* Supplier Management
+* Business Reporting
+* Accounting Systems
+
+---
+
+### 🎥 Media & Creative Production
+
+Alongside software development, I work in professional media production.
 
 * Event Coverage
 * Photography
 * Videography
 * Documentary Production
-* Social Media Content
 * Video Editing
+* Social Media Content
 * Promotional Videos
 * Brand Storytelling
 
+---
+
+# 🛠️ Technology Stack
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,redux" />
+</p>
+
+### Frontend Skills
+
+* React.js
+* Next.js
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Responsive Design
+* State Management
+* Component-Based Architecture
+* REST API Integration
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
+
+### Backend Skills
+
+* Node.js
+* Express.js
+* Java
+* Spring Boot
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control
+* API Security
+* Microservices Architecture
+* Backend System Design
+
+---
+
+## 🗄️ Database Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+
+### Database Skills
+
+* MongoDB
+* MySQL
+* PostgreSQL
+* Redis
+* Database Design
+* Data Modeling
+* Query Optimization
+* Database Relationships
+* Indexing
+
+---
+
+## ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,figma" />
+</p>
+
+* Git & GitHub
+* Docker
+* Linux
+* Nginx
+* Postman
+* VS Code
+* Figma
+* CI/CD Concepts
+* Cloud Deployment
+
+---
+
+# 🏗️ Software Architecture
+
+I am actively improving my skills in building scalable software architectures.
+
+### Architecture Concepts
+
+* Monolithic Architecture
+* Modular Monoliths
+* Microservices
+* REST API Architecture
+* Layered Architecture
+* MVC Architecture
+* Event-Driven Architecture
+* Distributed Systems
+
+### Engineering Principles
+
+* Clean Code
+* SOLID Principles
+* DRY
+* KISS
+* Separation of Concerns
+* Design Patterns
+* Scalable Database Design
+* Secure API Development
+
+---
+
+# 📌 Featured Projects
+
+## 🏥 Nageeye Polyclinic Center
+
+A complete healthcare management platform designed to digitize clinic operations.
+
+### Core Features
+
+* 👨‍⚕️ Doctor Management
+* 🧑‍🤝‍🧑 Patient Management
+* 📅 Appointment Scheduling
+* 🧪 Laboratory Management
+* 💊 Pharmacy Management
+* 💰 Billing & Payments
+* 📋 Electronic Medical Records
+* 📊 Medical Reports
+* 🧾 Prescription Management
+* 👩‍💼 Reception Dashboard
+* 📈 Administrative Dashboard
+
+### Technology
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 🚔 Police Case Management System
+
+A secure investigation and case tracking platform designed to manage police investigations and operational workflows.
+
+### Features
+
+* Case Registration
+* Investigation Management
+* Evidence Management
+* Officer Management
+* Case Status Tracking
+* Secure Authentication
+* Role-Based Access Control
+* Officer Dashboard
+* Investigation Workflow
+
+### Technology
+
+`React` `Spring Boot` `MySQL`
+
+---
+
+## 🛒 TechMaal E-Commerce Platform
+
+A modern electronics marketplace connecting customers with products through a complete online shopping experience.
+
+### Features
+
+* Product Management
+* Product Categories
+* Shopping Cart
+* Order Management
+* Customer Accounts
+* Payment Integration
+* Order Tracking
+* Admin Dashboard
+* Inventory Management
+
+### Technology
+
+`MongoDB` `Express.js` `React` `Node.js`
+
+---
+
+## 📦 Retail Management System
+
+A business management platform designed for supermarkets and retail businesses.
+
+### Features
+
+* Inventory Management
+* Product Management
+* Stock Tracking
+* Sales Management
+* Supplier Management
+* Purchase Management
+* Financial Reports
+* Sales Analytics
+* Business Dashboard
+
+### Technology
+
+`MERN Stack`
+
+---
+
+# 🎥 Media & Creative Services
+
+## Professional Media Production
+
+I also provide creative and media production services.
+
+### Services
+
+📸 Photography
+🎥 Videography
+🎬 Event Coverage
+🎞️ Documentary Production
+✂️ Video Editing
+📱 Social Media Content
+📢 Promotional Videos
+🎨 Brand Storytelling
+
 ### Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop" />
+</p>
 
 * Adobe Premiere Pro
 * Adobe Photoshop
@@ -83,116 +365,111 @@ I'm a passionate Full Stack Developer and Media Specialist from Somalia with exp
 
 ---
 
-## 📌 Featured Projects
+# 📚 Currently Learning
 
-### 🏥 Nageeye Polyclinic Center
+I believe software development is a continuous journey.
 
-A complete healthcare management system featuring:
+### Current Focus
 
-* Patient Management
-* Appointment Scheduling
-* Laboratory Module
-* Pharmacy Management
-* Billing System
-* Electronic Medical Records
-* Doctor Dashboard
-* Reception Dashboard
-
-**Stack:** React • Node.js • Express • MongoDB
-
----
-
-### 🚔 Police Case Management System
-
-Investigation and case tracking platform.
-
-**Features**
-
-* Case Registration
-* Investigation Workflow
-* Evidence Management
-* Officer Dashboard
-* Secure Authentication
-
-**Stack:** React • Spring Boot • MySQL
+* 🧠 Advanced System Design
+* 🏗️ Microservices Architecture
+* ☁️ Cloud Architecture
+* 🚀 Scalable API Development
+* 🐳 Docker & Containerization
+* 🔐 Advanced Security
+* 📊 Distributed Systems
+* ⚡ Performance Optimization
+* 🧪 Testing & Quality Engineering
 
 ---
 
-### 🛒 TechMaal E-Commerce Platform
+# 🎯 2026 Goals
 
-Modern online electronics marketplace.
-
-**Features**
-
-* Product Management
-* Shopping Cart
-* Order Tracking
-* Payment Integration
-* Admin Dashboard
-
-**Stack:** MERN Stack
+* Build production-ready SaaS platforms
+* Improve advanced system design skills
+* Develop scalable healthcare technology
+* Master microservices architecture
+* Deploy more applications to the cloud
+* Contribute to open-source projects
+* Build products that solve real problems
+* Grow as both a software engineer and technology entrepreneur
 
 ---
 
-### 📦 Retail Management System
+# 📊 GitHub Statistics
 
-Inventory, stock visibility, sales tracking, and supermarket operations management.
+<div align="center">
 
-**Features**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdinasirrmohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-* Inventory Control
-* Sales Monitoring
-* Product Management
-* Supplier Management
-* Financial Reporting
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdinasirrmohamed&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdinasirrmohamed&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdinasirrmohamed&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdinasirrmohamed&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🔥 Contribution Activity
+# 📈 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdinasirrmohamed&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdinasirrmohamed&theme=tokyo-night&hide_border=true" />
 
-## 🎯 Current Focus
-
-* Advanced MERN Stack Architecture
-* System Design
-* Healthcare ERP Systems
-* Spring Boot Enterprise Applications
-* Cloud Deployment
-* Scalable API Development
+</div>
 
 ---
 
-## 🌍 Let's Connect
+# 🧩 My Development Philosophy
 
-📧 Email: [abdinasirmohamedabukar@gmail.com](mailto:abdinasirmohamedabukar@gmail.com)
+> **"Great software is not just about writing code. It's about understanding problems, designing solutions, and creating technology that makes a real difference."**
 
-🐙 GitHub: github.com/abdinasirrmohamed
+### My Principles
 
-💼 LinkedIn: linkedin.com/in/abdinasirmohamed
+* 🚀 Build solutions, not just features
+* 🧠 Keep learning every day
+* 🧱 Write maintainable code
+* 🔐 Build secure systems
+* 📈 Think about scalability
+* 🤝 Collaborate and share knowledge
+* 🌍 Use technology to solve real-world problems
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:abdinasirmohamedabukar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abdinasirrmohamed">
+<img src="https://img.shields.io/badge/GitHub-Abdinasir Mohamed Abukar-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/abdinasirmohamed">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Building technology that solves real-world problems."
+### 🌍 Building from Somalia 🇸🇴 for the World 🌎
 
-⭐ Always learning. Always building.
+### 💻 Code • 🧠 Learn • 🚀 Build • 🌍 Impact
+
+**⭐ Always learning. Always building. Always improving.**
 
 </div>
