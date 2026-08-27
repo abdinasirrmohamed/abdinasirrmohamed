@@ -1,475 +1,250 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdinasir Mohamed Abukar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdinasir%20Mohamed%20Abukar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Healthcare%20Systems%20%7C%20Media%20Production&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Full+Stack+MERN+Developer;Healthcare+Systems+Engineer;Spring+Boot+Developer;Media+Production+Specialist;System+Design+Enthusiast;Building+Scalable+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+digital+solutions;MERN+%2B+Spring+Boot+Developer;Healthcare+Systems+Engineer;Multi-Tenant+SaaS+Architect;Code+.+Learn+.+Build+.+Repeat." />
 
 <br/>
 
-<p>
-  <a href="https://github.com/abdinasirrmohamed">
-    <img src="https://img.shields.io/github/followers/abdinasirrmohamed?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/abdinasirrmohamed">
-    <img src="https://komarev.com/ghpvc/?username=abdinasirrmohamed&style=for-the-badge&color=00D9FF" />
-  </a>
-  <a href="mailto:abdinasirmohamedabukar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="mailto:abdinasirmohamedabukar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/abdinasirrmohamed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abdinasirmohamed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### 💻 Full Stack Developer | 🏥 Healthcare Technology Builder | 🎥 Media Specialist
+<br/><br/>
 
-> **Building technology that solves real-world problems.**
+<img src="https://img.shields.io/github/followers/abdinasirrmohamed?label=Followers&style=flat-square&logo=github&color=00D9FF" />
+<img src="https://komarev.com/ghpvc/?username=abdinasirrmohamed&style=flat-square&color=00D9FF&label=Profile+Views" />
 
 </div>
 
----
+<br/>
 
-# 🚀 About Me
+## 🧭 About Me
 
-I'm **Abdinasir Mohamed Abukar**, a passionate Full Stack Developer and Media Specialist from Somalia.
+I'm a Full Stack Developer from **Somalia 🇸🇴**, focused on turning complex, real-world problems into scalable, secure digital products. My work sits at the intersection of **software engineering**, **healthcare technology**, and **enterprise systems** — and outside the IDE, I run a media production practice covering events, documentaries, and brand storytelling.
 
-I specialize in designing and building **scalable, secure, and modern digital solutions** that solve real-world business and organizational problems.
-
-My work focuses on combining:
-
-* 💻 Software Engineering
-* 🏥 Healthcare Technology
-* 📊 Business Management Systems
-* 🧠 System Design
-* 🎥 Digital Media Production
-* 🎨 Creative Technology
-
-I enjoy transforming complex ideas into practical, user-friendly, and scalable applications.
+I care less about chasing every new framework and more about **shipping systems that hold up in production**: clean architecture, sensible data models, and interfaces people actually enjoy using.
 
 ```javascript
 const abdinasir = {
-  name: "Abdinasir Mohamed Abukar",
-  location: "Somalia 🇸🇴",
+  base: "Somalia 🇸🇴",
   role: "Full Stack Developer",
-  specialization: [
-    "MERN Stack",
-    "Spring Boot",
-    "Healthcare Systems",
-    "Enterprise Applications",
-    "System Design",
-    "Media Production"
-  ],
-  currentlyLearning: [
-    "Advanced System Design",
-    "Microservices Architecture",
-    "Cloud Deployment",
-    "Distributed Systems"
-  ],
-  mindset: "Build. Learn. Improve. Repeat."
+  focus: ["Healthcare Systems", "Enterprise Platforms", "Multi-Tenant SaaS", "Media Production"],
+  stack: ["MERN", "Spring Boot", "Angular", "PHP / MySQL"],
+  currentlyLearning: ["System Design at scale", "Microservices", "Cloud Deployment"],
+  philosophy: "Build. Learn. Improve. Repeat."
 };
 ```
 
----
+<br/>
 
-# 🧠 What I Do
+## 🛠️ What I Build
 
-### 💻 Full Stack Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I build complete web applications from database architecture to responsive user interfaces.
+### 💻 Full Stack Platforms
+End-to-end web applications — from schema design to the last pixel of the UI.
+- RESTful API design & auth (JWT, RBAC)
+- Admin dashboards & reporting
+- Payment & third-party integrations
+- Multi-tenant (SaaS) architecture
 
-* RESTful API Development
-* Authentication & Authorization
-* Role-Based Access Control
-* Real-Time Applications
-* Admin Dashboards
-* Payment Integrations
-* Database Design
-* API Architecture
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 Healthcare Technology
+Systems that help clinics run their daily operations without the paperwork.
+- Patient records & appointment scheduling
+- Pharmacy & lab management
+- Billing, invoicing & medical reporting
+- Doctor / reception dashboards
 
-I design and develop healthcare management systems that help clinics and medical organizations manage their daily operations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-* Patient Management
-* Electronic Medical Records
-* Appointment Scheduling
-* Pharmacy Management
-* Laboratory Management
-* Billing & Finance
-* Doctor Dashboards
-* Reception Dashboards
-* Medical Reporting
+### 📊 Enterprise & Business Systems
+Operational backbones for organizations and schools.
+- ERP, inventory & POS systems
+- Multi-tenant school management (MADAARIS)
+- Financial & accounting modules
+- Role-based access control
 
----
-
-### 📊 Business & Enterprise Systems
-
-I build platforms that help organizations manage their operations efficiently.
-
-* ERP Systems
-* Inventory Management
-* Point of Sale Systems
-* Financial Management
-* Sales Management
-* Supplier Management
-* Business Reporting
-* Accounting Systems
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎥 Media & Creative Production
+The other half of the craft — visual storytelling.
+- Event coverage & documentary production
+- Photography & videography
+- Brand storytelling & promotional video
+- Social media content
 
-Alongside software development, I work in professional media production.
+</td>
+</tr>
+</table>
 
-* Event Coverage
-* Photography
-* Videography
-* Documentary Production
-* Video Editing
-* Social Media Content
-* Promotional Videos
-* Brand Storytelling
+<br/>
 
----
+## 🧰 Technology Stack
 
-# 🛠️ Technology Stack
-
-## 🎨 Frontend Development
-
+**Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,vite,redux" />
 </p>
 
-### Frontend Skills
-
-* React.js
-* Next.js
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Responsive Design
-* State Management
-* Component-Based Architecture
-* REST API Integration
-
----
-
-## ⚙️ Backend Development
-
+**Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
 </p>
 
-### Backend Skills
-
-* Node.js
-* Express.js
-* Java
-* Spring Boot
-* REST APIs
-* JWT Authentication
-* Role-Based Access Control
-* API Security
-* Microservices Architecture
-* Backend System Design
-
----
-
-## 🗄️ Database Technologies
-
+**Database**
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 </p>
 
-### Database Skills
-
-* MongoDB
-* MySQL
-* PostgreSQL
-* Redis
-* Database Design
-* Data Modeling
-* Query Optimization
-* Database Relationships
-* Indexing
-
----
-
-## ☁️ DevOps & Tools
-
+**Tools & DevOps**
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,figma" />
 </p>
 
-* Git & GitHub
-* Docker
-* Linux
-* Nginx
-* Postman
-* VS Code
-* Figma
-* CI/CD Concepts
-* Cloud Deployment
+**Creative Suite**
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop,premiere" />
+</p>
+
+<br/>
+
+## 🏗️ Architecture & Engineering Principles
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Architecture Concepts**
+- Layered / MVC architecture
+- Monolithic → Modular monolith → Microservices
+- REST API design
+- Multi-tenant (shared-schema) SaaS design
+- Event-driven patterns
+
+</td>
+<td valign="top" width="50%">
+
+**Engineering Discipline**
+- SOLID · DRY · KISS
+- Separation of concerns
+- Secure-by-default API design
+- Scalable database & indexing strategy
+- Design patterns where they earn their keep
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📌 Featured Projects
+
+### 🕌 MADAARIS — Multi-Tenant Quran School Management System
+A full SaaS platform for managing Quran schools end-to-end: academics, students, HRM, examinations, attendance, finance/accounts, and a dedicated **Quran memorization tracking module** (Hifdh progress, Tajwiid evaluation, error-type logging, Khatm certification) — a domain-specific feature set most school-management systems don't offer.
+- Multi-tenant architecture (shared database, tenant-isolated by design)
+- Role-based dashboards for Admins, Teachers, Accountants, and Parents
+- SMS notification pipeline for attendance & fee alerts
+- PascalCase-normalized relational schema across 35+ tables
+
+`Angular` `PHP (REST API)` `MySQL` `JWT`
 
 ---
 
-# 🏗️ Software Architecture
-
-I am actively improving my skills in building scalable software architectures.
-
-### Architecture Concepts
-
-* Monolithic Architecture
-* Modular Monoliths
-* Microservices
-* REST API Architecture
-* Layered Architecture
-* MVC Architecture
-* Event-Driven Architecture
-* Distributed Systems
-
-### Engineering Principles
-
-* Clean Code
-* SOLID Principles
-* DRY
-* KISS
-* Separation of Concerns
-* Design Patterns
-* Scalable Database Design
-* Secure API Development
-
----
-
-# 📌 Featured Projects
-
-## 🏥 Nageeye Polyclinic Center
-
-A complete healthcare management platform designed to digitize clinic operations.
-
-### Core Features
-
-* 👨‍⚕️ Doctor Management
-* 🧑‍🤝‍🧑 Patient Management
-* 📅 Appointment Scheduling
-* 🧪 Laboratory Management
-* 💊 Pharmacy Management
-* 💰 Billing & Payments
-* 📋 Electronic Medical Records
-* 📊 Medical Reports
-* 🧾 Prescription Management
-* 👩‍💼 Reception Dashboard
-* 📈 Administrative Dashboard
-
-### Technology
+### 🏥 Nageeye Polyclinic Center
+A healthcare management platform digitizing clinic operations end-to-end.
+- Patient records, appointment scheduling, and doctor/reception dashboards
+- Pharmacy and laboratory management
+- Billing, prescriptions, and medical reporting
 
 `React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## 🚔 Police Case Management System
-
-A secure investigation and case tracking platform designed to manage police investigations and operational workflows.
-
-### Features
-
-* Case Registration
-* Investigation Management
-* Evidence Management
-* Officer Management
-* Case Status Tracking
-* Secure Authentication
-* Role-Based Access Control
-* Officer Dashboard
-* Investigation Workflow
-
-### Technology
+### 🚔 Police Case Management System
+A secure investigation and case-tracking platform for operational workflows.
+- Case registration, evidence tracking, and investigation status
+- Role-based access control for officers and administrators
+- Secure authentication and audit-friendly workflow
 
 `React` `Spring Boot` `MySQL`
 
 ---
 
-## 🛒 TechMaal E-Commerce Platform
-
-A modern electronics marketplace connecting customers with products through a complete online shopping experience.
-
-### Features
-
-* Product Management
-* Product Categories
-* Shopping Cart
-* Order Management
-* Customer Accounts
-* Payment Integration
-* Order Tracking
-* Admin Dashboard
-* Inventory Management
-
-### Technology
+### 🛒 TechMaal E-Commerce Platform
+An electronics marketplace covering the full shopping lifecycle.
+- Product catalog, cart, and order management
+- Payment integration and order tracking
+- Admin dashboard with inventory control
 
 `MongoDB` `Express.js` `React` `Node.js`
 
 ---
 
-## 📦 Retail Management System
-
-A business management platform designed for supermarkets and retail businesses.
-
-### Features
-
-* Inventory Management
-* Product Management
-* Stock Tracking
-* Sales Management
-* Supplier Management
-* Purchase Management
-* Financial Reports
-* Sales Analytics
-* Business Dashboard
-
-### Technology
+### 📦 Retail Management System
+A business management platform built for supermarkets and retail operations.
+- Inventory, stock, and supplier management
+- Sales analytics and financial reporting
+- Purchase management and business dashboards
 
 `MERN Stack`
 
----
+<br/>
 
-# 🎥 Media & Creative Services
+## 📚 Currently Sharpening
 
-## Professional Media Production
+`Advanced System Design` · `Microservices Architecture` · `Cloud Deployment` · `Docker & Containerization` · `Distributed Systems` · `API Performance Optimization` · `Testing & QA Engineering`
 
-I also provide creative and media production services.
+<br/>
 
-### Services
-
-📸 Photography
-🎥 Videography
-🎬 Event Coverage
-🎞️ Documentary Production
-✂️ Video Editing
-📱 Social Media Content
-📢 Promotional Videos
-🎨 Brand Storytelling
-
-### Creative Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop" />
-</p>
-
-* Adobe Premiere Pro
-* Adobe Photoshop
-* Canva
-* CapCut
-* DaVinci Resolve
-
----
-
-# 📚 Currently Learning
-
-I believe software development is a continuous journey.
-
-### Current Focus
-
-* 🧠 Advanced System Design
-* 🏗️ Microservices Architecture
-* ☁️ Cloud Architecture
-* 🚀 Scalable API Development
-* 🐳 Docker & Containerization
-* 🔐 Advanced Security
-* 📊 Distributed Systems
-* ⚡ Performance Optimization
-* 🧪 Testing & Quality Engineering
-
----
-
-# 🎯 2026 Goals
-
-* Build production-ready SaaS platforms
-* Improve advanced system design skills
-* Develop scalable healthcare technology
-* Master microservices architecture
-* Deploy more applications to the cloud
-* Contribute to open-source projects
-* Build products that solve real problems
-* Grow as both a software engineer and technology entrepreneur
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdinasirrmohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdinasirrmohamed&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=abdinasirrmohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdinasirrmohamed&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdinasirrmohamed&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdinasirrmohamed&theme=tokyo-night&hide_border=true" width="100%"/>
+
 </div>
 
----
+<br/>
 
-# 📈 GitHub Activity
+## 🎯 2026 Focus
+
+- Ship production-grade SaaS platforms (MADAARIS and beyond)
+- Deepen system-design and microservices fluency
+- Expand healthcare technology work
+- Contribute to open-source
+- Grow as both an engineer and a technology entrepreneur
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdinasirrmohamed&theme=tokyo-night&hide_border=true" />
+### 💬 "Great software isn't just code — it's understanding the problem well enough that the solution feels obvious."
+
+<br/>
+
+<a href="mailto:abdinasirmohamedabukar@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abdinasirrmohamed"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdinasirmohamed"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+**Building from Somalia 🇸🇴 — for the world 🌎**
 
 </div>
 
----
-
-# 🧩 My Development Philosophy
-
-> **"Great software is not just about writing code. It's about understanding problems, designing solutions, and creating technology that makes a real difference."**
-
-### My Principles
-
-* 🚀 Build solutions, not just features
-* 🧠 Keep learning every day
-* 🧱 Write maintainable code
-* 🔐 Build secure systems
-* 📈 Think about scalability
-* 🤝 Collaborate and share knowledge
-* 🌍 Use technology to solve real-world problems
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:abdinasirmohamedabukar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abdinasirrmohamed">
-<img src="https://img.shields.io/badge/GitHub-Abdinasir Mohamed Abukar-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/abdinasirmohamed">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌍 Building from Somalia 🇸🇴 for the World 🌎
-
-### 💻 Code • 🧠 Learn • 🚀 Build • 🌍 Impact
-
-**⭐ Always learning. Always building. Always improving.**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
